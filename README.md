@@ -1,7 +1,12 @@
 # Lab 1
+
 # Lab 2
+![](https://github.com/LauZhiYing/Programming-Technique-I/blob/main/Lab%20Exercise2.png)
 # Lab 3
+![](https://github.com/LauZhiYing/Programming-Technique-I/blob/main/Lab%20Exercise3(1).png)
+![](https://github.com/LauZhiYing/Programming-Technique-I/blob/main/Lab%20Exercise3(2).png)
 # Lab 4
+![](https://github.com/LauZhiYing/Programming-Technique-I/blob/main/Lab%20Exercise%204.png)
 # Assignment 1
 # Assignment 2
 # Assignment 3
