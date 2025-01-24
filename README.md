@@ -1,5 +1,5 @@
 # Lab 1
-
+https://github.com/LauZhiYing/Programming-Technique-I/blob/main/Lab%20Exercise1.pdf
 # Lab 2
 ![](https://github.com/LauZhiYing/Programming-Technique-I/blob/main/Lab%20Exercise2.png)
 # Lab 3
@@ -8,6 +8,7 @@
 # Lab 4
 ![](https://github.com/LauZhiYing/Programming-Technique-I/blob/main/Lab%20Exercise%204.png)
 # Assignment 1
+https://app.diagrams.net/
 ![](https://github.com/LauZhiYing/Programming-Technique-I/blob/main/Assignment%201.png)
 # Assignment 2
 ![](https://github.com/LauZhiYing/Programming-Technique-I/blob/main/Assignment%202(1).png)
